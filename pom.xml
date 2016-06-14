@@ -12,7 +12,7 @@
     <packaging>jar</packaging>
     <groupId>media.greyflower</groupId>
     <artifactId>51degrees-lite-binary</artifactId>
-    <version>3.2-201603</version>
+    <version>3.2-201604</version>
     <name>51 Degrees Lite Data Files</name>
     <description>WebJar for 51 Degrees Lite Data Files for Month ${upstream.month}.</description>
     <url>http://webjars.org</url>
@@ -46,8 +46,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <upstream.version>3.2</upstream.version>
-        <upstream.month>201603</upstream.month>
-        <upstream.hash>68c1f3d701a574ab557d1e72fb0cdca2299438da</upstream.hash>
+        <upstream.month>201604</upstream.month>
+        <upstream.hash>a5eec13243c5251d7ae441e0741a03923245d95f</upstream.hash>
         <upstream.repo>51Degrees/Device-Detection</upstream.repo>
         <upstream.data.filename>51Degrees-LiteV3.2.dat</upstream.data.filename>
         <upstream.trie.filename>51Degrees-LiteV3.2.trie</upstream.trie.filename>
