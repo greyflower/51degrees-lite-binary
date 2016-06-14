@@ -10,7 +10,7 @@
     </parent>
 
     <packaging>jar</packaging>
-    <groupId>org.webjars</groupId>
+    <groupId>media.greyflower</groupId>
     <artifactId>51degrees-lite-binary</artifactId>
     <version>3.2-201602</version>
     <name>51 Degrees Lite Data Files</name>
